@@ -1,0 +1,14 @@
+[package]
+name = "valk-utils"
+version = "0.1.0"
+edition = "2021"
+description = "Dead simple functions that valkyrie_pilot uses, and maybe you can too"
+homepage = "https://crates.io/crates/valk-utils/"
+documentation = "https://docs.rs/valk-utils/"
+repository = "https://github.com/randomairborne/valk-utils/"
+readme = "README.md"
+license = "MIT OR Apache-2.0 OR Unlicense"
+keywords = ["utilities"]
+categories = ["parsing", "text-processing"]
+
+[dependencies]
